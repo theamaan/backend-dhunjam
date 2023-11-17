@@ -16,4 +16,4 @@ It can store multiple users in its database
 3- The admin can change a particular value if they want to. The screenshot is attached below.
 For Example:- It can be used to update the price of the commodity.
 
-![App Screenshot](https://github.com/theamaan/backend-dhunjam/assets/90848726/bdb3b541-8092-426e-9bd1-ad53d968c6f0)
+![App Screenshot]([https://github.com/theamaan/backend-dhunjam/assets/90848726/bdb3b541-8092-426e-9bd1-ad53d968c6f0](https://github.com/theamaan/backend-dhunjam/assets/90848726/ea8d2f17-1cd9-4bfb-884c-caac2af2c293)https://github.com/theamaan/backend-dhunjam/assets/90848726/ea8d2f17-1cd9-4bfb-884c-caac2af2c293)
